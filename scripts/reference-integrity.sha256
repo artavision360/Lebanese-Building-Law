@@ -1,0 +1,7 @@
+# Integrity manifest for the LOCKED legal source files of the lebanese-building-law skill.
+# These three files are the authoritative source dataset and MUST NOT be modified.
+# validate_skill.py recomputes each hash and reports TAMPERED on any mismatch.
+# Derived files (QUICK_MATRIX.md, COMPLIANCE_CHECKLIST.md, examples/) are intentionally NOT locked.
+4dc8983a812bf134e67b1f3ac64d88b605164ffa0afcac249b24a3eef863a2ef  references/LEBANESE_BUILDING_LAW_CLAUDE_MASTER.md
+7f8e9a8db68c9c3f4b72390885a11cc044e4a4be4f7cf31606931c20c85c6155  references/LEBANESE_BUILDING_LAW_SOURCE_LEDGER.md
+f579e2a8508eb1ee3aa048052c477f044170e4c302a00912cf6860577c9f9f7a  references/LEBANESE_BUILDING_LAW_QA_REPORT.md
