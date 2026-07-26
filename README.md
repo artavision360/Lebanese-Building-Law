@@ -13,7 +13,7 @@ It combines:
 - Building-Code parameter lookup
 - Article and source-page traceability
 - Urban Planning / Zoning workflow
-- Project-specific ارتفاع وتخطيط analysis
+- Project-specific ارتفاق وتخطيط analysis
 - BCR / معدل الاستثمار السطحي
 - FAR / عامل الاستثمار العام
 - Maximum building height
@@ -39,7 +39,7 @@ Planning and zoning values are NOT treated as universal regulations.
 
 For each project, the user can provide the applicable:
 
-- ارتفاع وتخطيط document
+- ارتفاق وتخطيط document
 - Urban Planning / Zoning sheet
 - Zone classification
 - Municipal planning document
